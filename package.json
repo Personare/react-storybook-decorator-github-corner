@@ -27,5 +27,9 @@
     "transform": [
       "babelify"
     ]
+  },
+  "dependencies": {
+    "react": "^15.3.0",
+    "react-github-corner": "^0.3.0"
   }
 }
