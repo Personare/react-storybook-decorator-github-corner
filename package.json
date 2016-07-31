@@ -20,6 +20,10 @@
     "banner"
   ],
   "license": "MIT",
+  "dependencies": {
+    "react": "^15.3.0",
+    "react-github-corner": "^0.3.0"
+  },
   "devDependencies": {
     "react-fatigue-dev": "github:tj/react-fatigue-dev"
   },
@@ -27,9 +31,5 @@
     "transform": [
       "babelify"
     ]
-  },
-  "dependencies": {
-    "react": "^15.3.0",
-    "react-github-corner": "^0.3.0"
   }
 }
