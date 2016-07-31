@@ -2,7 +2,7 @@ import React from 'react';
 import GithubCorner from 'react-github-corner';
 
 export default (storyFn) => {
-    const location = window.location;
+    const location = window.parent.location;
     const hostname = location.hostname.split('.')[0];
 
     let githubRepository = '/';
