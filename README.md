@@ -3,7 +3,7 @@
 > Storybook decorator to render the Github Corner. 
 
 <p align="center">
-  <img width="100%" src="./screenshot.png?raw=true" alt="Screenshot" />
+  <img width="100%" src="https://raw.githubusercontent.com/Personare/react-storybook-decorator-github-corner/master/screenshot.png" alt="Screenshot" />
 </p>
 
 ## Installation 
