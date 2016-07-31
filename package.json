@@ -1,0 +1,31 @@
+{
+  "name": "@personare/react-storybook-decorator-github-corner",
+  "version": "0.1.0",
+  "description": "Storybook decorator to render the Github corner",
+  "main": "build/index.js",
+  "author": {
+    "name": "Cauê Alves",
+    "email": "cauealveseng@gmail.com",
+    "url": "http://cauealves.com"
+  },
+  "scripts": {
+    "prepublish": "make build"
+  },
+  "keywords": [
+    "react",
+    "storybook",
+    "react-storybook",
+    "corner",
+    "github",
+    "banner"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "react-fatigue-dev": "github:tj/react-fatigue-dev"
+  },
+  "browserify": {
+    "transform": [
+      "babelify"
+    ]
+  }
+}
