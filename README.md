@@ -30,3 +30,7 @@ configure(loadStories, module);
 ```
 
 *Note: The link of repository is based on pages that are hosted on Github Pages (***.github.io)*
+
+## License
+
+[MIT © Personare](./LICENSE)
