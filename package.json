@@ -1,6 +1,6 @@
 {
   "name": "@personare/react-storybook-decorator-github-corner",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Storybook decorator to render the Github corner",
   "main": "build/index.js",
   "author": {
@@ -27,6 +27,14 @@
   "devDependencies": {
     "react-fatigue-dev": "github:tj/react-fatigue-dev"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Personare/react-storybook-decorator-github-corner.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Personare/react-storybook-decorator-github-corner/issues"
+  },
+  "homepage": "https://github.com/Personare/react-storybook-decorator-github-corner#readme",
   "browserify": {
     "transform": [
       "babelify"
