@@ -30,3 +30,15 @@ configure(loadStories, module);
 ```
 
 *Note: The link of repository is based on pages that are hosted on Github Pages (***.github.io)*
+
+## Examples
+
+* [react-freshdesk-widget](https://personare.github.io/react-freshdesk-widget)
+
+## Related
+
+* [react-github-corner](https://github.com/skratchdot/react-github-corner) - component used by this decorator
+
+## License
+
+[MIT © Personare](./LICENSE)
