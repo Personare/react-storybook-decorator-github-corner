@@ -34,6 +34,7 @@ configure(loadStories, module);
 ## Examples
 
 * [react-freshdesk-widget](https://personare.github.io/react-freshdesk-widget)
+* [lyef-pokemon](https://lyef.github.io/lyef-pokemon/)
 
 ## Related
 
