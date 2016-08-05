@@ -35,6 +35,8 @@ configure(loadStories, module);
 
 * [react-freshdesk-widget](https://personare.github.io/react-freshdesk-widget)
 * [lyef-pokemon](https://lyef.github.io/lyef-pokemon/)
+* [lyef-switch-button](https://lyef.github.io/lyef-switch-button/)
+* [lyef-flags](https://lyef.github.io/lyef-flags/)
 
 ## Related
 
